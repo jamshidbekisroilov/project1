@@ -36,7 +36,7 @@ If you have suggestions, questions, or want to collaborate:
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License]([[LICENSE](https://github.com/jamshidbekisroilov/project1/blob/main/LICENSE)].
 
 ---
 
