@@ -36,6 +36,9 @@ cd project1
 pip install -r requirements.txt
 Create a `.env` file in the root directory and add your credentials:
 
+---
+## ⚙️ Installation
+
 ```env
 BOT_TOKEN=your_telegram_bot_token_here
 EXCHANGE_API_KEY=your_exchange_api_key_here
@@ -46,7 +49,7 @@ WEBSITE_URL=https://yourwebsite.com
 YOUTUBE_URL=https://youtube.com/@your_youtube_channel
 LINKEDIN_URL=https://linkedin.com/in/your-linkedin-profile
 WEBHOOK_URL=https://your-app-name.onrender.com
-🧪 Local Testing on TERMINAL
+## 🧪 Local Testing on TERMINAL
 python bot.py
 🌐 Deployment (Render)
 Connect your GitHub repo to Render
@@ -60,12 +63,12 @@ Build Command	pip install -r requirements.txt
 Start Command	python bot.py or bash start.sh
 Environment Variable	BOT_TOKEN=your_token
 WEBHOOK_URL=https://your-app-name.onrender.com
-📬 Feedback & Contact
+## 📬 Feedback & Contact
 If you have suggestions, questions, or want to collaborate:
 
 Telegram: @jamshidbekisroilov
 
-GitHub Issues: [project1](https://github.com/jamshidbekisroilov/project1)
+## GitHub Issues: [project1](https://github.com/jamshidbekisroilov/project1)
 This project is open-source and available under the MIT License.
-👨‍💻 Author
+## 👨‍💻 Author
 Jamshidbek Isroilov Sales Economist | Aspiring Project Manager | Telegram Bot Developer LinkedIn • GitHub • Website
