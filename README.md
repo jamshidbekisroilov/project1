@@ -50,25 +50,25 @@ YOUTUBE_URL=https://youtube.com/@your_youtube_channel
 LINKEDIN_URL=https://linkedin.com/in/your-linkedin-profile
 WEBHOOK_URL=https://your-app-name.onrender.com
 ## 🧪 Local Testing on TERMINAL
-python bot.py
-🌐 Deployment (Render)
-Connect your GitHub repo to Render
+- python bot.py
+## 🌐 Deployment (Render)
+- Connect your GitHub repo to Render
 
-Create a Web Service
+- Create a Web Service
 
-Set the following configuration:
+- Set the following configuration:
 
-Setting	Value
-Build Command	pip install -r requirements.txt
-Start Command	python bot.py or bash start.sh
-Environment Variable	BOT_TOKEN=your_token
-WEBHOOK_URL=https://your-app-name.onrender.com
+- Setting	Value
+- Build Command	pip install -r requirements.txt
+- Start Command	python bot.py or bash start.sh
+- Environment Variable	BOT_TOKEN=your_token
+- WEBHOOK_URL=https://your-app-name.onrender.com
 ## 📬 Feedback & Contact
-If you have suggestions, questions, or want to collaborate:
+- If you have suggestions, questions, or want to collaborate:
 
-Telegram: @jamshidbekisroilov
+- Telegram: @jamshidbekisroilov
 
 ## GitHub Issues: [project1](https://github.com/jamshidbekisroilov/project1)
-This project is open-source and available under the MIT License.
-## 👨‍💻 Author
-Jamshidbek Isroilov Sales Economist | Aspiring Project Manager | Telegram Bot Developer LinkedIn • GitHub • Website
+- This project is open-source and available under the MIT License.
+**## 👨‍💻 Author**
+- Jamshidbek Isroilov Sales Economist | Aspiring Project Manager | Telegram Bot Developer LinkedIn • GitHub • Website
