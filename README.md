@@ -25,11 +25,38 @@
 - dotenv (for secure environment variable management)
 
 ---
+## 📬 Feedback & Contact
+
+If you have suggestions, questions, or want to collaborate:
+
+- Telegram: [@jamshidbekisroilov](https://t.me/jamshidbekisroilov)
+- GitHub Issues: [project1](https://github.com/jamshidbekisroilov/project1/issues)
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## 👨‍💻 Author
+
+**Jamshidbek Isroilov**  
+Sales Economist | Aspiring Project Manager | Telegram Bot Developer  
+[LinkedIn](https://linkedin.com/in/jamshidbek-isroilov) • [GitHub](https://github.com/jamshidbekisroilov) • [Website](https://jamshidbek.uz)
 
 ## ⚙️ Installation
 
-Clone the repository and install dependencies:
 
+## 🧪 Local Testing
+
+To run the bot locally with Flask:
+
+```bash
+python bot.py
+
+Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/jamshidbekisroilov/project1.git
 cd project1
@@ -37,7 +64,7 @@ pip install -r requirements.txt
 Create a `.env` file in the root directory and add your credentials:
 
 ---
-## ⚙️ Installation
+
 
 ```env
 BOT_TOKEN=your_telegram_bot_token_here
@@ -49,8 +76,7 @@ WEBSITE_URL=https://yourwebsite.com
 YOUTUBE_URL=https://youtube.com/@your_youtube_channel
 LINKEDIN_URL=https://linkedin.com/in/your-linkedin-profile
 WEBHOOK_URL=https://your-app-name.onrender.com
-## 🧪 Local Testing on TERMINAL
-- python bot.py
+
 ## 🌐 Deployment (Render)
 - Connect your GitHub repo to Render
 
@@ -63,12 +89,4 @@ WEBHOOK_URL=https://your-app-name.onrender.com
 - Start Command	python bot.py or bash start.sh
 - Environment Variable	BOT_TOKEN=your_token
 - WEBHOOK_URL=https://your-app-name.onrender.com
-## 📬 Feedback & Contact
-- If you have suggestions, questions, or want to collaborate:
 
-- Telegram: @jamshidbekisroilov
-
-## GitHub Issues: [project1](https://github.com/jamshidbekisroilov/project1)
-- This project is open-source and available under the MIT License.
-**## 👨‍💻 Author**
-- Jamshidbek Isroilov Sales Economist | Aspiring Project Manager | Telegram Bot Developer LinkedIn • GitHub • Website
