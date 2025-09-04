@@ -23,6 +23,9 @@
 - Flask (for webhook-based server)
 - Render (for cloud deployment)
 - dotenv (for secure environment variable management)
+---
+## ⚠️ Note: This bot is hosted on a free reminder-based server, so it may occasionally go to sleep. But don’t worry — it will wake up and respond within a minute. Thanks for your patience!
+
 
 ---
 ## 📬 Feedback & Contact
